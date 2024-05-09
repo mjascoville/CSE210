@@ -2,6 +2,7 @@ using System;
 
 class Program
 {
+    //Written by Michael Scoville.
     static void Main(string[] args)
     {
         DisplayWelcomeMessage();

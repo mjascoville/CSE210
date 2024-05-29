@@ -1,4 +1,4 @@
-class Content
+class Scripture
 {
     private List<Word> _words;
 
@@ -6,7 +6,7 @@ class Content
 
     private Random _random;
 
-    public Content(Reference reference, string text)
+    public Scripture(Reference reference, string text)
     {
         _reference = reference;
         _random = new();
